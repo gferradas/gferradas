@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajo en AT Inovando Juntos [https://www.at.uy/](https://www.at.uy/)
 
-- 🌱Actualmente me encuentro aprendiendo **Jenkins, Terraform, Zabbix, kubernetes, docker.**
+- 🌱Tengo experiencia en las siguientes tecnologias **Jenkins, Terraform, Zabbix, Kubernetes, Docker, AWS, Linux, GIT.**
 
 - Actualmente estoy cursando la carrera de Analista en infraestructura informatica en ORT [https://fi.ort.edu.uy/analista-en-infraestructura-informatica](https://fi.ort.edu.uy/analista-en-infraestructura-informatica)
 
