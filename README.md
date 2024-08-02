@@ -1,11 +1,12 @@
 <h1 align="center">Hola 👋, Mi nombre es Guillermo Ferradás</h1>
-<h3 align="center">Soy un Sysadmin Semi-Senior que esta aprendiendo todo sobre la cultura DevOps</h3>
+<h3 align="center">Soy un Devops y Analista Cloud con experiencia en AWS y Linux</h3>
 
-- 🔭 Actualmente trabajo en AT Inovando Juntos [https://www.at.uy/](https://www.at.uy/)
+- 🔭 Actualmente trabajo en Fenicio Ecommerce (https://fenicio.io))
 
 - 🌱Tengo experiencia en las siguientes tecnologias **Jenkins, Terraform, Zabbix, Kubernetes, Docker, AWS, Linux, Python, GIT.**
 
-- Actualmente estoy cursando la carrera de Analista en infraestructura informatica en ORT [https://fi.ort.edu.uy/analista-en-infraestructura-informatica](https://fi.ort.edu.uy/analista-en-infraestructura-informatica)
+- Recibido de la carrera de Analista en Infraestructura informatica otorgado por ORT (https://fi.ort.edu.uy/analista-en-infraestructura-informatica)
+- Cuento con las ceritifiaciones RHCSA y AWS-SAA-3
 
 - 📫 Como contactarme **guillermoferr1507@gmail.com**
 
