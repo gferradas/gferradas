@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Guillermo Ferradás</h1>
-<h3 align="center">Soy un Devops y Analista Cloud con experiencia en AWS y Linux</h3>
+<h3 align="center">Soy un DevOps y Analista Cloud con experiencia en AWS y Linux</h3>
 
 - 🔭 Actualmente trabajo en Fenicio Ecommerce (https://fenicio.io))
 
